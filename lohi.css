@@ -1,0 +1,12 @@
+*{
+    background-color:black ;
+}
+h1 {
+    color: azure;
+    margin-left: 30%;
+    font-size: 400%;
+    font-family: 'system-ui';
+}
+a {
+    text-decoration: none;
+}
